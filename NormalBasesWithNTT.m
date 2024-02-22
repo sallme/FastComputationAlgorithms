@@ -95,12 +95,6 @@ ENBrange := function(lb, ub, me)
 end function;
 
 
-/*** If possible, return appropriate curve for elliptic normal basis ***/
-ENBfindCurve := function()
-
-end function;
-
-
 
 /**********************************************************************
 ** Test if a normal basis with NTT from multiplicative group exists. **
