@@ -7,7 +7,7 @@ The primary objective is to explore various ranges of binary field extensions fo
 and extended implementations. The central focus is on normal bases, whose efficiency stems from 
 an adaptation to fast polynomial multiplication or convolution product. The package includes the 
 file 'NormalBasesWithNTT.m,' which uploads the necessary data and contains functions for establishing 
-tables for fast computation. The new data are based on results on normal bases and algebraic groups, 
+tables for fast multiplication. The new data are based on results on normal bases and algebraic groups, 
 CPU micro-architecture properties, and some software design. Potential applications span software and 
 hardware field arithmetic, coding theory, and cryptographic processes.
 
