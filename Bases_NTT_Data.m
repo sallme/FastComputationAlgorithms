@@ -1,4 +1,4 @@
-/*** Elliptic Normal Bases of embedding degree less than 20 for n in [500..1000] ***/
+/*** Elliptic Normal Bases of embedding degree less than 20 for n in [500 ... 1000] ***/
 ENBrange(500, 1000, 20);
 [ <507, 13>, <510, 15>, <512, 16>, <513, 19>, <516, 12>, <518, 14>, <520, 13>,
 <522, 18>, <527, 17>, <528, 12>, <532, 14>, <533, 13>, <540, 15>, <544, 17>,
