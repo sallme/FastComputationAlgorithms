@@ -2,9 +2,9 @@ load "GNBdata.m";
 load "ENBdata.m";
 
 
-/**********************************************************************
-**** In this part we work with normal bases from elliptic curves. *****
-***********************************************************************/
+/***********************************************************************
+**** In this part we work with normal bases from elliptic curves. ******
+************************************************************************/
 
 /*** Preliminary Computations ***/
 ListDivisor := function(n)
