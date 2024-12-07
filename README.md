@@ -1,6 +1,7 @@
 This package is based on the computational strategies described in the following paper:
 
-Mohamadou Sall and M. Anwar Hasan 'On efficient normal bases over binary fields' available on 
+Mohamadou Sall and M. Anwar Hasan 'On NTT Facilitating Normal Bases Over Binary Fields'.
+A longer version entitled 'On efficient normal bases over binary fields' is available on 
 arXiv, https://arxiv.org/pdf/2402.11544
 
 The primary objective is to explore various ranges of binary field extensions for both common 
